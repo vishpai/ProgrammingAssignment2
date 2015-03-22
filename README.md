@@ -100,6 +100,12 @@ In order to complete this assignment, you must do the following:
 5.  Submit to Coursera the URL to your GitHub repository that contains
     the completed R code for the assignment.
 
+### Updates
+cachematrix.R file that existed in the GitHub repository has been updated with 2 functions.
+1. `makeCacheMatrix`: inverses the matrix and caches into object
+2. `cacheSolve`: Consumes the object data when available in the cache
+
+
 ### Grading
 
 This assignment will be graded via peer assessment.
